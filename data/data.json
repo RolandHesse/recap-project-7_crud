@@ -1,0 +1,10 @@
+[
+  {
+    "title": "shmancakes",
+    "portions": 4,
+    "ingredients": "eggs, milk, salt, flour",
+    "instructions":
+      "put eggs, milk, and salt in a bowl; add flour while stirring",
+    "duration": 15
+  },
+];
